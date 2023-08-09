@@ -1,0 +1,16 @@
+code,system
+Q30..00,readv2
+Q30..11,readv2
+Q30..12,readv2
+Q316.00,readv2
+Q316.11,readv2
+Q31y200,readv2
+Qyu3000,readv2
+26684.0,med
+2737.0,med
+3007.0,med
+3883.0,med
+43218.0,med
+72704.0,med
+97418.0,med
+P22,icd10
